@@ -11,7 +11,7 @@ The project will use a step-by-step and team-based way of working. Ideas, choice
 
 
 <iframe
-  src="./documents/Agile Team Charter.pdf"
+  src="./documents/Agile Team Charter.pdff"
   width="100%"
   height="700px"
   style="border: 1px solid #ddd; border-radius: 8px;">
