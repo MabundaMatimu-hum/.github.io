@@ -11,11 +11,16 @@ The project will use a step-by-step and team-based way of working. Ideas, choice
 
 
 <iframe
-  src="./documents/Agile Team Charter.pdff"
+  src="./documents/Agile Team Charter.pdf"
   width="100%"
   height="700px"
   style="border: 1px solid #ddd; border-radius: 8px;">
 </iframe>
+
+## My Portfolio
+
+[View My Portfolio (PDF)](./documents/Agile Team Charter.pdf)
+
 
 ### **Conclusion**
 The WaterWatch Agile Team Charter explains what the project is about creates a vision makes roles clear and sets out the rules that will help the team work together during the nine-week project. It ties the problem of monitoring household water to the product that is being built and creates a way to communicate, plan handle risks and keep improving.
