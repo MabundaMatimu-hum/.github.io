@@ -10,16 +10,198 @@ The team wants to build a working model that's possible to make and fits the sit
 The project will use a step-by-step and team-based way of working. Ideas, choices about design and what the system can do will be checked often during the building process. This will make sure the result matches what people need and what the project wants to achieve.
 
 
-<iframe
-  src="./documents/Agile Team Charter.pdf"
-  width="100%"
-  height="700px"
-  style="border: 1px solid #ddd; border-radius: 8px;">
-</iframe>
+### **Vision Statement**
+The idea behind WaterWatch is to help people make choices about using water by giving them easy-to-understand and quick information about how much they use. By turning data about water use into ideas, the system hopes to get people to use water more carefully, know more about how they use water and to help save water.
 
-## My Portfolio
+## **Project Objectives**
+### **The team will pursue the following objectives:**
+ -	Look into the problems that people face when checking how water they use by doing research that is real and looking at other studies.
+ -	Find out what people need and take what was learned from the research to make rules for what the product should do.
+ -	Come up with a way to check water flow without making changes using a special kind of sensor that clamps onto pipes.
+ -	Make a phone app that's easy to use and shares water use information clearly.
+ -	Show how the sensor and the phone app would work together as part of the system.
+ -	Improve the things that the project will give out by checking and getting feedback again.
+ -	Check if the idea works for the problem that people need and the technical limits that are there.
 
-[View My Portfolio (PDF)](./documents/Agile Team Charter.pdf)
+
+## **Definition of Success**
+### **The success of WaterWatch will be evaluated against the following criteria:**
+ - WaterWatch must clearly connect the household water monitoring problem to its features. Everyone looking at the design should see this link.
+ -	I think research findings must give a basis for spotting user needs, setting clear requirements, and deciding on design choices. Research‑informed development must stand up to scrutiny.
+ -	WaterWatch must show a prototype or a clear conceptual demonstration that respects the technical strengths and limits of the chosen sensor and the application. Technical feasibility must be clear and honest.
+ -	WaterWatch’s mobile interface must display information in a way that's easy to access and easy to understand so users can read water consumption data and act on it. User‑centred design must help every user.
+ -	I think research, requirements, system design, interface prototypes, and technical explanations must all tie together for WaterWatch. Integration of deliverables must flow smoothly.
+ -	Feedback and review activities guide tweaks to WaterWatch deliverables. Iterative improvement must keep the work on track.
+
+## **Product Scope and Responsibilities**
+### **The principal product responsibilities are:**
+ -	**Water flow monitoring:** Think up a clamp on sensor idea that watches water flow without digging into pipes. The feasibility of this idea must be checked against the tech tools we have. The limits of the project. Water flow monitoring must be doable.
+ -	**Mobile application interface:** Create an easy to use interface that shows water consumption data and helps users understand it. The mobile application interface must be clear.
+ -	**Leak detection:** Build or show the logic that spots water flow patterns that might mean a leak. Leak detection must work when good data is available. Leak detection logic must be tested.
+ -	**Estimated water costs:** Look at how the water usage data could become an estimated household bill using the tariff rules and calculation assumptions. Estimated water costs must be realistic.
+ -	**System integration:** Write or show how the sensor, the data processor, and the mobile interface will work together. System integration must be clear.
+ -	**Prototype evaluation:** Check the proposed solution against the research results, the functional needs, and the agreed project goals. Prototype evaluation must confirm everything fits.
+
+
+## **Team Roles and Responsibilities**
+| Team Members | Agile Role | Responsibilities |
+|---|---|---|
+|Matimu Mabunda|Project Manager (Scrum Master) | Helps make sure that everyone follows the plan, keeps track of what needs to be done, looks at the task list, finds problems and helps fix them, makes sure people talk to each other and work together, and keeps finding ways to do better.
+Kamvelihle Mqadi | Product Owner & Research Analyst | Does hand and second-hand research, investigates what users want, turns what is learned into what the product needs, keeps the list of things to build up to date, and helps decide what is most important for the product.
+Marco Julian Human | Frontend Developer & UI Designer | Creates the look of the app, builds models that show how the app works, makes sure the app is easy for everyone to use, and works with the person who builds the back part of the app.
+Thapelo Masingi | Backend Developer | Checks how the technology works, builds the way data is handled and stored investigates how sensors connect to the app. Makes sure everything is safe, fast, monitored, and can send alerts when needed.
+
+## **Shared Responsibilities**
+### **All members are expected to:**
+ - Contribute to planning, reviews and agreed team discussions.
+ - Communicate progress, dependencies and potential delays.
+ -	Review relevant materials. Provide constructive feedback.
+ -	Maintain project documentation.
+ -	Support decisions with research, technical reasoning or user requirements.
+ -	Participate in identifying improvements to the team’s working practices.
+
+
+### **Accountability and Role Boundaries**
+The team will use the agreed role allocation to set ownership of tasks and to encourage collaboration across disciplines. For example, the frontend developers and the backend developers must coordinate their work so that the proposed data structure and interface requirements are compatible.
+
+I think the Product Owner is responsible for product priorities and value, while the Scrum Master facilitates the team’s agreed process and helps address obstacles. The Project Manager designation reflects the team’s assigned coordination responsibility. These responsibilities are defined for this project. Should not be interpreted as a claim that the Project Manager is a formal Scrum role.
+
+---
+
+## **Team Core Values and Agile Principles**
+
+### **Accountability**
+Each team member is responsible for the quality, completion, and communication of their assigned work. They must take ownership of their tasks, report problems early, and let others know if deadlines might be delayed. This helps keep things open and clear. It lets the team act on issues before they cause problems with the project.
+
+### **Transparency**
+Project progress, task status, challenges, and decisions should be easy for everyone to see. We’ll use agreed-upon communication channels and the project task board to share this. Keeping information accurate helps reduce confusion, supports teamwork and lets members spot when one task depends on another.
+
+### **Respect**
+Team members must value perspectives, skills, and ways of working. Listening carefully, giving feedback that helps, and talking professionally will support decisions. It also helps the team handle disagreements in a useful way.
+
+### **Reliability**
+Members are expected to keep their promises and do work that meets the project’s quality standards. When one task depends on another person’s work the team members involved must coordinate. This helps avoid delays that could happen if no one is checking in.
+
+### **Improvement**
+The team will look at how it works find things that're hard and think about changes that could help. Feedback and group discussions after stages will help us learn what went well and what didn’t. We’ll agree on steps to make things better.
+
+### **Quality and Professionalism**
+All deliverables should meet professional standards. The team will check for accuracy, usability, consistency, technical feasibility, and the quality of any supporting documents when reviewing its work.
+
+---
+
+## **Application of Agile Principles**
+### **Incremental Delivery**
+The project will be divided into work items that can be developed, reviewed, and improved step by step. This way, the work becomes easier to handle. It is easier to see how much progress has been made on the project.
+
+### **Continuous Feedback**
+Team members will look at each other's work. Use the feedback to improve the requirements, interface designs, and technical choices. Whenever possible, the feedback should be added early so that changes later do not take much time or money.
+
+### **Adaptability**
+The team will stay ready to respond to research-changing requirements and technical limitations. Any change will be checked against the project's goals, the time we have, and whether the solution is practical.
+
+### **Collaboration**
+Members will talk about how they're doing, share useful knowledge, and work together on tasks that depend on each other. Any decision that affects parts of the project must be discussed with the people who need to know.
+
+### **User-Centred Development**
+Product choices will follow the household water monitoring problem. The needs discovered through research. Features, like consumption monitoring, leak alerts, and cost estimates, will be judged by how relevant, clear, and possible they're.
+
+### **Improvement**
+The team will look at its progress and outputs at set times. These reviews will show where the plan and the real work differ, and later discussions will aim to make the production process better.
+
+---
+
+## **Communication and Task Coordination Plan**
+
+### **Agile Workflow**
+The team will use a logbook and a task-tracking system to keep track of all work items. This helps everyone see how things are going. Makes it easier to talk about what’s happening. The workflow breaks tasks into four stages: work that is waiting for action, work that is currently being done, work that is under review, and work that is completed.
+
+### **The proposed workflow is as follows:**
+ -	Product Backlog / To Do: Work items are written down clearly. Sorted by priority before being picked for work.
+ -	In Progress: Tasks that team members are actively working on. Checked regularly.
+ -	Review: Work that’s finished is looked at to make sure it matches the needed specs and quality rules.
+ -	Completed: Work that has met all the agreed-upon finish conditions is marked as done.
+
+---
+## **Communication Platforms**
+
+**WhatsApp:** We will use WhatsApp for communication. WhatsApp will help us coordinate. WhatsApp will let us give progress updates. WhatsApp will also let us report any problems early.
+
+**Campus meetings:** We will meet on campus discuss project needs and meetings will help us review deliverables. Campus meetings will clear up misunderstandings. We will coordinate work that depends on each other. I think campus meetings will keep us on track.
+
+
+**Agile Task board:** The task board will show what work is still outstanding. I think Agile. Task board will keep us organized.
+
+---
+## **Meeting Schedule**
+
+| Meeting or activity | Agreed frequency | Purpose |
+|---|---|---|
+Stand-up | Weekdays, approximately 15 minutes | Share progress find out what work is coming next and bring up any problems that're in the way.
+Planning | Weekly | Look at the priorities, decide what work needs to be done, and make sure everyone knows what they are responsible for.
+Review | Weekends | Check the work that is done, see how it matches what was asked for, and find out what needs to be changed or improved.
+Retrospective | Monday and Friday, as agreed | Think about how the team's working together how people are communicating what problems are happening and what can be done better in the future.
+
+## **Working Agreements**
+### **The team agrees to the following working practices:**
+ -	Attend scheduled meetings on time and participate.
+ -	I will tell the team as soon as possible if the deadline or promise might not be met.
+ -	Be active in discussions and help to make decisions.
+ -	Respect the ways of working and different opinions.
+ -	I will think about solutions instead of pointing fingers.
+ -	Update the status of tasks so everyone can see how the project is going.
+ -	Talk about any issues or delays with the people who need to know.
+ -	Check work against the agreed rules before saying it is done.
+ -	Write down decisions and changes that are agreed on.
+ -	Use feedback properly. Act on any agreed improvements.
+
+ ## **Project SMART Goal and Milestones**
+
+ ### **The goal follows the SMART framework:**
+ -	**Specific:** Create a suggested water monitoring solution for homes in Cape Town that shows how much water is used and finds leaks. Makes water use clear.
+ -	**Measurable:** Measure progress on the water monitoring solution by finishing and reviewing set tasks, including research results, product needs, system design, an interface prototype, and final project reports.
+ -	**Achievable:** We should keep the project small, so it is possible to make a basic model that shows the team's skills, resources, and technology limits.
+ -	**Relevant:** Make sure the work connects with the problem of not knowing how much water is being used and the need to help people use water better.
+ -	**Time-bound:** I think we should finish all work. Submit the project in nine weeks following the steps listed below.
+
+
+| Milestone | Timeline | Expected deliverable |
+|---|---|---|
+Research and Validation of Problem | Week 2 | Research a clear understanding of the problem and what users need.
+Product Concept and Requirements Defined | Week 4 | A defined product idea, requirements listed and the first direction for the system.
+Design and prototype | Week 6 | Designs for the user interface, a working model and a description of how the system will work.
+Review and Refinement of Deliverables | Week 8 | Checked all the work that was done and wrote down comments. Found ways to make it better.
+Final Submission | Week 9 | Put together all the parts of the project. Finished all the final work.
+
+
+## **Project Risks, Constraints and Mitigation Strategies**
+## **Identified Risks**
+### **Unequal contribution**
+Some team members may do more work than others. This can make the situation stressful for those who are carrying a load. It can also disrupt the project timeline because not everyone is contributing equally.
+
+### **Miscommunication and delays**
+If the requirements are not clear, then updates may be unclear. People may not reply on time, which can confuse. When one person’s work depends on another person’s work, delays can slow the team.
+
+### **Limited technical experience**
+Not every team member may know how to work with sensors or process data. Building the monitoring tools we plan to make could take longer or be more difficult than we first thought. This could mean that tasks take longer or are harder than we expected.
+
+## **Project Constraints**
+**Competing responsibilities:** Other classes and deadlines can take up a lot of time that should go into this project. It’s hard to stay focused when there is work that needs to be finished.
+**Limited meeting availability:** Team members have schedules. Finding a time when everyone's free can be difficult. This makes planning and working together more challenging.
+**Prototype-level scope:** The project is not meant to be built as a ready-to-use device. We are working on ideas and prototypes. This means we cannot test sensor performance in a physical setup. We will be limited to what's possible, with simulations or small-scale testing.
+
+## **Mitigation Strategies**
+| Risk  | Mitigation strategy | Mitigation strategy |
+|---|---|---|
+Unequal contribution | Assign task ownership, monitor progress, and raise workload concerns early. | Balanced work allocation and clearer accountability.
+Miscommunication and delays | Maintain updates, document important decisions, and communicate blockers promptly. | Fewer avoidable misunderstandings.
+Limited technical experience | Investigate uncertainties early, divide complex work into manageable tasks, and seek credible technical information. | Earlier identification of feasibility issues. More realistic development decisions.
+Competing academic responsibilities | More credible conclusions and realistic expectations of the deliverables. | Better workload management and fewer deadline conflicts will help.
+Limited meeting availability | I think we should use agreed communication channels and use project records to keep continuity between meetings. | More consistent communication and access to current project information is needed.
+Conceptual or prototype-level scope | We should clearly document assumptions, limitations, and the distinction between demonstrated and proposed functionality. | I think credible conclusions and more realistic expectations of the deliverables will benefit the team.
+
+
+
 
 
 ### **Conclusion**
@@ -51,13 +233,21 @@ User stories and tasks were created to turn the goals of the WaterWatch project 
 WaterWatch is meant to help households in Cape Town see how water they use, spot patterns and make better choices about saving water. The project is building a user water monitoring system. It uses a proposed clamp-on sensor that doesn’t need to cut into pipes and connects to an app. Since this is a prototype the user stories show what the system should do not that every feature is finished or tested.
 
 The user stories and tasks fit well with the method. They split the project into parts help set priorities make it clear who does what and allow room for feedback and changes. They also help track how well the team is doing against the goals set in the Agile Team Charter.
-    
-<iframe
-  src="./documents/Agile Team Charter.pdf"
-  width="100%"
-  height="700px"
-  style="border: 1px solid #ddd; border-radius: 8px;">
-</iframe>
+
+
+## **Target Audiences**
+
+![Target Audiences](./documents/Persona.png)
+
+## **Task Breakdown**
+
+![Target Audiences](./documents/Task.png)
+
+
+## **Prototype**
+
+![Target Audiences](./documents/Prototype.png)
+
 
 ### **Conclusion**
 WaterWatch user stories and tasks turn the project goals into user focused needs and into tasks that are easy to handle. WaterWatch user stories show the value that the new system is meant to bring while acceptance criteria explain how we can check that the needs are met. The task breakdown helps everyone know their role work together watch progress and stay on track, with the project plan.
@@ -161,14 +351,14 @@ WaterWatch aims to help households in Cape Town understand their water consumpti
 I use the logbook to keep a record of stand ups, sprint planning sessions, task updates, review meetings, obstacles that were found, and retrospective talks. It also helps with accountability by naming the team members who're responsible writing down agreed actions and giving proof of how decisions were made during the project.
 
 
-<iframe
-  src="./documents/Agile Team Charter.pdf"
-  width="100%"
-  height="700px"
-  style="border: 1px solid #ddd; border-radius: 8px;">
-</iframe>
+## **Task Breakdown**
 
-### **Conclusion**
+![Target Audiences](./documents/Agile4.png)
+
+rgb(104, 101, 101)
+## **Prototype**
+
+![Target Audiences](./documents/Agile5.png)                                                                                                                      ## **Conclusion**
 The WaterWatch Agile logbook creates a way to write down what the team does for stand‑ups, sprint planning, checking progress, reviews and retrospectives. The WaterWatch Agile logbook lines up the team’s work with the project timeline. Lets us link who is in charge of each task and the decisions made to the goals the project wants to achieve.
 
 The WaterWatch logbook is useful only if we write down what happens keep task status correct spot problems early and write down improvement steps. By giving visibility, responsibility and a habit of getting better the WaterWatch logbook lets the WaterWatch team show a way to manage projects while keeping a sharp line, between planned work, finished deliverables, shown prototype features and still‑open technical needs.
